@@ -1,0 +1,8 @@
+{
+    "fortran.linter.compilerPath": " \"fortran.fortls.path\": \"/custom/path/to/fortls\"",
+    "fortran.linter.includePaths": [
+        " \"fortran.fortls.path\": \"/custom/path/to/fortls\""
+    ],
+    "fortran.formatting.path": " \"fortran.fortls.path\": \"/custom/path/to/fortls\"",
+    "fortran.fortls.path": " \"fortran.fortls.path\": \"/custom/path/to/fortls\""
+}

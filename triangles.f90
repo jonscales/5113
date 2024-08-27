@@ -1,17 +1,15 @@
-! Jon Scales
-! Fortran program to determine if 3 length segments will generate a triangle
+
 
 
 program triangles
-    ! All variables will be declared - good practice
+   
     implicit none 
-    ! Declarations
-    ! String declaration
+  
     character(len = 15) :: name
-    ! decimal declaration (C++ float or double)
+
     real :: num1, num2, num3 
 
-    ! unformatted I/O
+  
     write (*, *)
     write (*, *) 'Jon Scales'
     write (*, *) 'Fortran Triangle Test Program'
@@ -33,4 +31,4 @@ program triangles
     else
       write (*, *) 'These lengths could be formed into a triangle'
     end if 
-  end program simple
+  end program triangles
