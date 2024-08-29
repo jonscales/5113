@@ -28,13 +28,13 @@ program triangles
         roundNum3 = NINT(num3 * 10.0) / 10.0
         ! write (*, *) 'Hello ', name
         if (roundNum1 > (roundNum2 + roundNum3)) then
-          write (*, *) "I'm sorry ", name, ' these lengths can not be formed into a triangle'
+          write (*, *) "I'm sorry ", trim(name), ', these lengths can not be formed into a triangle'
         else if (roundNum2 > (roundNum1 + roundNum3)) then
-          write (*, *) "I'm sorry ", name, ' these lengths can not be formed into a triangle'
+          write (*, *) "I'm sorry ", trim(name), ', these lengths can not be formed into a triangle'
         else if (roundNum3 > (roundNum1 + roundNum2)) then
           write (*, *) 'These lengths CAN NOT be formed into a triangle'
         else
-          write (*, *) 'Good news ', name, '! These lengths CAN BE formed into a triangle'
+          write (*, *) 'Good news ', trim(name), '! These lengths CAN BE formed into a triangle'
         end if
         write (*, *) 'Would you like to test another set of values? (Y or N)'
         read *, more
