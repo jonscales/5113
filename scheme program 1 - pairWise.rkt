@@ -5,7 +5,7 @@
 ;Fall 2024
 ;CMPS 5113
 
-;written using DrRacket IDE in racket scheme
+;written using DrRacket IDE in racket scheme ver 8.14
 
 ;create lists to use
 (define listA '(1 2 3 4 5 6))
