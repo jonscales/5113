@@ -18,11 +18,11 @@
 (define (pairWise a b)
   (if(or(empty? a)(empty? b));base case test when either original list is empty
      '(); return an empty list if originals is empty
-     (cons (list (car a)(car b))(pairWise (cdr a) (cdr b)))))
-          ;car a & car b: get 1st atom in each list
-          ;list ( ) make a new list with car a and car b result
-          ;cons combines this new list with the recursive call on the list remainders
-          ;pairWise with cdr a & cdr b as parameters is recursive call
+     (cons (list (car a)(car b)) (pairWise (cdr a) (cdr b)))))
+          ;(list (car a)(car b) gets 1st atom in each original list and make new sublist
+          ;cons combines (list result with result of recursive call on the original list remainders
+          ;(pairWise (cdr a)(cdr b) recursively works on remaining items in original lists
+          ;recursion continues until either original list is empty
 
 
 ;function call
