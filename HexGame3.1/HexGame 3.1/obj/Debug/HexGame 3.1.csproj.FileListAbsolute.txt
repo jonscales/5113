@@ -1,0 +1,10 @@
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\bin\Debug\HexGame 3.0.exe.config
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\bin\Debug\HexGame 3.0.exe
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\bin\Debug\HexGame 3.0.pdb
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\obj\Debug\HexGame 3.0.csproj.AssemblyReference.cache
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\obj\Debug\HexGame_3._0.Jons_Game.resources
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\obj\Debug\HexGame_3._0.Properties.Resources.resources
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\obj\Debug\HexGame 3.0.csproj.GenerateResource.cache
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\obj\Debug\HexGame 3.0.csproj.CoreCompileInputs.cache
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\obj\Debug\HexGame 3.0.exe
+C:\Users\jonbs\OneDrive\Desktop\5113\Program 3 - game\HexGame 3.0\obj\Debug\HexGame 3.0.pdb
